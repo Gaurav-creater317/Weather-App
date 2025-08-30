@@ -1,12 +1,4 @@
 #🌤️ Weather App using JavaScript – API Project
-#
-javascript
-#
-webdev
-#
-api
-#
-opensource
 Hey DEV Community! 👋
 
 I'm excited to share a project I recently completed — a Weather Application built using HTML, CSS, and JavaScript.
