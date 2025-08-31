@@ -47,5 +47,5 @@ Dynamically updating the DOM .
 Handling API errors gracefully.
 Deploying projects using Vercel .
 
-✨ Feel free to fork and star this repository if you like it !
+# ✨ Feel free to fork and star this repository if you like it !
 
