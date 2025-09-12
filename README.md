@@ -45,7 +45,7 @@ Working with fetch() and async/await .
 Parsing and using JSON data .
 Dynamically updating the DOM .
 Handling API errors gracefully.
-Deploying projects using Vercel .
+Deploying projects using Vercel and Netlify .
 
 # ✨ Feel free to fork and star this repository if you like it !
 
